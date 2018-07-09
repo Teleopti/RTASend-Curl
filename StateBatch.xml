@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tel="http://schemas.datacontract.org/2004/07/Teleopti.Ccc.Rta.WebService" xmlns:tem="http://tempuri.org/" xmlns:tns="http://tempuri.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <soapenv:Body>
+      <tns:SaveBatchExternalUserState>
+         <tem:authenticationKey>!#?atAbgT%</tem:authenticationKey>
+         <tem:platformTypeId>00000000-0000-0000-0000-000000000000</tem:platformTypeId>
+         <tem:sourceId>1</tem:sourceId>
+         <tem:externalUserStateBatch>
+            <tel:ExternalUserState>
+               <tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
+               <tel:IsLoggedOn>true</tel:IsLoggedOn>
+               <tel:IsSnapshot>false</tel:IsSnapshot>
+               <tel:SecondsInState>0</tel:SecondsInState>
+               <tel:StateCode>ADMIN</tel:StateCode>
+               <tel:StateDescription>Doing Admin stuff</tel:StateDescription>
+               <tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
+               <tel:UserCode>2001</tel:UserCode>
+            </tel:ExternalUserState>
+            <tel:ExternalUserState>
+               <tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
+               <tel:IsLoggedOn>true</tel:IsLoggedOn>
+               <tel:IsSnapshot>false</tel:IsSnapshot>
+               <tel:SecondsInState>0</tel:SecondsInState>
+               <tel:StateCode>EMAIL</tel:StateCode>
+               <tel:StateDescription>Working the email queue</tel:StateDescription>
+               <tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
+               <tel:UserCode>2002</tel:UserCode>
+            </tel:ExternalUserState>
+            <tel:ExternalUserState>
+               <tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
+               <tel:IsLoggedOn>true</tel:IsLoggedOn>
+               <tel:IsSnapshot>false</tel:IsSnapshot>
+               <tel:SecondsInState>0</tel:SecondsInState>
+               <tel:StateCode>IDLE</tel:StateCode>
+               <tel:StateDescription>Ready to take calls</tel:StateDescription>
+               <tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
+               <tel:UserCode>0063</tel:UserCode>
+            </tel:ExternalUserState>
+            <tel:ExternalUserState>
+               <tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
+               <tel:IsLoggedOn>true</tel:IsLoggedOn>
+               <tel:IsSnapshot>false</tel:IsSnapshot>
+               <tel:SecondsInState>0</tel:SecondsInState>
+               <tel:StateCode>InCall</tel:StateCode>
+               <tel:StateDescription>Currenty on a call</tel:StateDescription>
+               <tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
+               <tel:UserCode>2000</tel:UserCode>
+            </tel:ExternalUserState>
+            <tel:ExternalUserState>
+               <tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
+               <tel:IsLoggedOn>true</tel:IsLoggedOn>
+               <tel:IsSnapshot>false</tel:IsSnapshot>
+               <tel:SecondsInState>0</tel:SecondsInState>
+               <tel:StateCode>WEB</tel:StateCode>
+               <tel:StateDescription>Working the web chat</tel:StateDescription>
+               <tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
+               <tel:UserCode>0019</tel:UserCode>
+            </tel:ExternalUserState>
+         </tem:externalUserStateBatch>
+      </tns:SaveBatchExternalUserState>
+   </soapenv:Body>
+</soapenv:Envelope>
