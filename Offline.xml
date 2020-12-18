@@ -8,7 +8,6 @@
 		<tem:externalUserStateBatch>
 		<tel:ExternalUserState>
 			<tel:UserCode>2001</tel:UserCode>
-			<tel:StateCode>ADMIN</tel:StateCode>
 			<tel:StateCode>OFF</tel:StateCode>
 			<tel:StateDescription>Agent is logged off</tel:StateDescription>
 			<tel:SecondsInState>0</tel:SecondsInState>
