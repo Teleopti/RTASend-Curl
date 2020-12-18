@@ -11,8 +11,8 @@
 	               <tel:IsLoggedOn>true</tel:IsLoggedOn>
 	               <tel:IsSnapshot>false</tel:IsSnapshot>
 	               <tel:SecondsInState>0</tel:SecondsInState>
-	               <tel:StateCode>Call</tel:StateCode>
-	               <tel:StateDescription>Call</tel:StateDescription>
+	               <tel:StateCode>AUX5</tel:StateCode>
+	               <tel:StateDescription>AUX5</tel:StateDescription>
 	               <tel:Timestamp>2018-03-12T22:02:00Z</tel:Timestamp>
 	               <tel:UserCode>2001</tel:UserCode>
 	            </tel:ExternalUserState>
@@ -21,8 +21,8 @@
 	               <tel:IsLoggedOn>true</tel:IsLoggedOn>
 	               <tel:IsSnapshot>false</tel:IsSnapshot>
 	               <tel:SecondsInState>0</tel:SecondsInState>
-	               <tel:StateCode>Connected</tel:StateCode>
-	               <tel:StateDescription>Connected</tel:StateDescription>
+	               <tel:StateCode>InCall</tel:StateCode>
+	               <tel:StateDescription>InCall</tel:StateDescription>
 	               <tel:Timestamp>2018-03-12T22:02:00Z</tel:Timestamp>
 	               <tel:UserCode>2002</tel:UserCode>
 	            </tel:ExternalUserState>
@@ -31,8 +31,8 @@
 	               <tel:IsLoggedOn>true</tel:IsLoggedOn>
 	               <tel:IsSnapshot>false</tel:IsSnapshot>
 	               <tel:SecondsInState>0</tel:SecondsInState>
-	               <tel:StateCode>Meeting</tel:StateCode>
-	               <tel:StateDescription>Meeting</tel:StateDescription>
+	               <tel:StateCode>Ready</tel:StateCode>
+	               <tel:StateDescription>Ready</tel:StateDescription>
 	               <tel:Timestamp>2018-03-12T22:02:00Z</tel:Timestamp>
 	               <tel:UserCode>0063</tel:UserCode>
 	            </tel:ExternalUserState>
@@ -41,8 +41,8 @@
 	               <tel:IsLoggedOn>true</tel:IsLoggedOn>
 	               <tel:IsSnapshot>false</tel:IsSnapshot>
 	               <tel:SecondsInState>0</tel:SecondsInState>
-	               <tel:StateCode>Short</tel:StateCode>
-	               <tel:StateDescription>Short</tel:StateDescription>
+	               <tel:StateCode>LOGGED ON</tel:StateCode>
+	               <tel:StateDescription>LOGGED ON</tel:StateDescription>
 	               <tel:Timestamp>2018-03-12T22:02:00Z</tel:Timestamp>
 	               <tel:UserCode>2000</tel:UserCode>
 	            </tel:ExternalUserState>
@@ -51,8 +51,8 @@
 	               <tel:IsLoggedOn>true</tel:IsLoggedOn>
 	               <tel:IsSnapshot>false</tel:IsSnapshot>
 	               <tel:SecondsInState>0</tel:SecondsInState>
-	               <tel:StateCode>Work</tel:StateCode>
-	               <tel:StateDescription>Work</tel:StateDescription>
+	               <tel:StateCode>ADMIN</tel:StateCode>
+	               <tel:StateDescription>ADMIN</tel:StateDescription>
 	               <tel:Timestamp>2018-03-12T22:02:00Z</tel:Timestamp>
 	               <tel:UserCode>0019</tel:UserCode>
 	            </tel:ExternalUserState>

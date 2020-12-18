@@ -8,8 +8,9 @@
 		<tem:externalUserStateBatch>
 		<tel:ExternalUserState>
 			<tel:UserCode>2001</tel:UserCode>
-			<tel:StateCode>OFF</tel:StateCode>
-			<tel:StateDescription>Agent is logged off</tel:StateDescription>
+			<tel:StateCode>LOGGED-OFF</tel:StateCode>
+			<tel:StateDescription>CCC Logged out</tel:StateDescription>
+			<tel:IsLoggedOn>false</tel:IsLoggedOn>
 			<tel:SecondsInState>0</tel:SecondsInState>
 			<tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
 			<tel:BatchId>2018-05-03T17:02:00Z</tel:BatchId>
@@ -17,8 +18,8 @@
 		</tel:ExternalUserState>
 		<tel:ExternalUserState>
 			<tel:UserCode>2002</tel:UserCode>
-			<tel:StateCode>OFF</tel:StateCode>
-			<tel:StateDescription>Agent is logged off</tel:StateDescription>
+			<tel:StateCode>LOGGED-OFF</tel:StateCode>
+			<tel:StateDescription>CCC Logged out</tel:StateDescription>
 			<tel:IsLoggedOn>false</tel:IsLoggedOn>
 			<tel:SecondsInState>0</tel:SecondsInState>
 			<tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
@@ -27,8 +28,8 @@
 		</tel:ExternalUserState>
 		<tel:ExternalUserState>
 			<tel:UserCode>0063</tel:UserCode>
-			<tel:StateCode>OFF</tel:StateCode>
-			<tel:StateDescription>Agent is logged off</tel:StateDescription>
+			<tel:StateCode>LOGGED-OFF</tel:StateCode>
+			<tel:StateDescription>CCC Logged out</tel:StateDescription>
 			<tel:IsLoggedOn>false</tel:IsLoggedOn>
 			<tel:SecondsInState>0</tel:SecondsInState>
 			<tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
@@ -37,8 +38,8 @@
 		</tel:ExternalUserState>
 		<tel:ExternalUserState>
 			<tel:UserCode>2000</tel:UserCode>
-			<tel:StateCode>OFF</tel:StateCode>
-			<tel:StateDescription>Agent is logged off</tel:StateDescription>
+			<tel:StateCode>LOGGED-OFF</tel:StateCode>
+			<tel:StateDescription>CCC Logged out</tel:StateDescription>
 			<tel:IsLoggedOn>false</tel:IsLoggedOn>
 			<tel:SecondsInState>0</tel:SecondsInState>
 			<tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
@@ -47,8 +48,8 @@
 		</tel:ExternalUserState>
 		<tel:ExternalUserState>
 			<tel:UserCode>0019</tel:UserCode>
-			<tel:StateCode>OFF</tel:StateCode>
-			<tel:StateDescription>Agent is logged off</tel:StateDescription>
+			<tel:StateCode>LOGGED-OFF</tel:StateCode>
+			<tel:StateDescription>CCC Logged out</tel:StateDescription>
 			<tel:IsLoggedOn>false</tel:IsLoggedOn>
 			<tel:SecondsInState>0</tel:SecondsInState>
 			<tel:Timestamp>2018-05-03T17:02:00Z</tel:Timestamp>
